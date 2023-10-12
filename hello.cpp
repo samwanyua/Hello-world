@@ -26,7 +26,7 @@ int main() {
     comment
     
     */
-   /*int x; //declaration
+   int x; //declaration
    x =100888; //assignment
 
    int y = 432888;
@@ -34,31 +34,31 @@ int main() {
 
    std::cout << x << '\n';
    std::cout << y << '\n';  
-   std::cout << sum << '\n';  */
+   std::cout << sum << '\n'; 
 
    //Data types
    
    //INTEGERS (whole numbers)
-   /*int age = 31;
+   int age = 31;
    int year = 2334;
    int days = 4;
 
    std::cout << age << std::endl;
-   std::cout << year << std::endl;*/
+   std::cout << year << std::endl;
 
    //DOUBLES (Numbers with Decimals)
-   /*double price = 32432.78;
+  double price = 32432.78;
    double temp = 3243.3;
    double gpa = 2349.2394;
 
-   std::cout << gpa << std::endl;*/
+   std::cout << gpa << std::endl;
 
    //char data type (store a single character)
-   /*char currency = '$';
+  char currency = '$';
    char grade = 'B';
    char initial = 'G';
 
-   std::cout << grade;*/
+   std::cout << grade;
 
    //Booleans (Either True or False)
    /*bool power = true;
