@@ -8,11 +8,11 @@ typedef int num_t;
 using text_t = std::string;
 using num_t = int;
 namespace first{
-    int x =23423;
+    int x =23;
 }
 
 namespace second {
-    int x = 2341213;
+    int x = 233;
 }
 int main() {
     
