@@ -7,13 +7,13 @@ typedef int num_t;
 
 using text_t = std::string;
 using num_t = int;
-namespace first{
+/*namespace first{
     int x =23423;
 }
 
 namespace second {
     int x = 2341213;
-}
+}*/
 int main() {
     
     // <<std::endl;   or << '\n';  are used to create a new line
