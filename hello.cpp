@@ -95,11 +95,11 @@ int main() {
 
    //TYPEDEFS
    //pairlist_t pairlist;
-    /*text_t firstname = "Wanyua";
+    text_t firstname = "Wanyua";
     num_t age  =  34;
 
     std::cout << firstname << '\n';
-    std::cout << age << '\n';*/
+    std::cout << age << '\n';
 
 //ARITHMETIC OPERAATIONS
 
