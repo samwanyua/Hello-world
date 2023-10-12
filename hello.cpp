@@ -68,13 +68,12 @@ int main() {
    std::cout << student;*/
 
    //STRINGS
-    /*std::string name = "Wanyua";
+   std::string name = "Wanyua";
     std::string address = "34 Manhatan New York";
     int age = 323;
     std::cout << address << std::endl;
     std::cout << "Hello " <<name << '\n';
-    std::cout << "You are " << age << " Years old!";*/
-
+    std::cout << "You are " << age << " Years old!";
 
     //std::cout << "I like Pizza" << std::endl;
     //std::cout << "I am finally doing c++ man, wueeh" << std::endl;
@@ -82,10 +81,10 @@ int main() {
     //const Keyword
     //const double PI = 3.141159;
     //PI = 23231232;
-    /*double radius = 3212;
+   double radius = 3212;
     double circumference = 2 * PI * radius;
 
-    std::cout << circumference << " cm";*/
+    std::cout << circumference << " cm";
     //using namespace first;
     //using namespace std;
     //using std::cout;
